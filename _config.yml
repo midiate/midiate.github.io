@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'midiate.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: midiate.github.io
+baseurl:
 
 # Title of the Site
 title: midiate.com
