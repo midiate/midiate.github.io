@@ -23,29 +23,29 @@ heroimage: https://images.unsplash.com/photo-1526045612212-70caf35c14df?ixlib=rb
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: duerr.sebastian@gmail.com
-facebook_username: /
-twitter_username: /
-instagram_username: /
-linkedin_username: /
-github_username:  /
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+facebook_username:
+twitter_username:
+instagram_username:
+linkedin_username:
+github_username:
+youtube_channel_id:
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
 
 # Google Analytics
-google-analytics: /
+google-analytics:
 
 # Disqus
-disqus-shortname: /
+disqus-shortname:
 
 # Name of the Author
 author-name: midiate.com
 # URL for the Image of the Author
-author-image: https://i.imgur.com/p17tulX.png
+author-image: https://i.imgur.com/Jg9OQ3R.png
 # 60 Words About the Author
-author-about: We want everybody in the world to communicate with each other.
+author-about: Our mission is that everybody in the world can communicate with each other in their natural language. We are Paul, Albert, and Sebastian - three young aspirational developers from Vienna, Austria. Next step: Get our app life! We cannot wait.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/midiate
 
