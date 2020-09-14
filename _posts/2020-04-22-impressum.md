@@ -1,18 +1,17 @@
 ---
 title: Disclaimer
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: The legal has to be.
+post-image:
+description: This legal has to presented.
 ---
 
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
 ## VERANTWORTLICHER
 
-Inh.: Sebastian Duerr <br>
+Inh.: Sebastian <br>
 Oskar-Morgenstern-Platz 1
 AT-1090 Wien<br>
-duerr.sebastian@gmail.com
 
 ### Arten der verarbeiteten Daten
 
